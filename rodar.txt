@@ -8,3 +8,11 @@ npx expo install react-native-worklets
 npx expo install react-native-reanimated-carousel
 
 npx expo start -c
+
+
+back 
+npm init -y
+npm install express pg bcryptjs jsonwebtoken cors dotenv
+npm install -D typescript ts-node-dev @types/express @types/pg @types/bcryptjs @types/jsonwebtoken @types/cors
+
+rodar npm run dev e ligar run no neon
