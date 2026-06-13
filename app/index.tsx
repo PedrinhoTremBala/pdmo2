@@ -23,11 +23,11 @@ export default function IndexRedirect() {
 
   return (
     <View style={s.root}>
-      <ActivityIndicator size="large" color="#000" />
+      <ActivityIndicator size="large" color="#00008b" />
     </View>
   );
 }
 
 const s = StyleSheet.create({
-  root: { flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: '#fff' },
+  root: { flex: 1, alignItems: 'center', justifyContent: 'center', backgroundColor: '#000000' },
 });
