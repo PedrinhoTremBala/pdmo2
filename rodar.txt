@@ -1,0 +1,10 @@
+# 1. Instale o Reanimated corretamente (usando o Expo)
+npx expo install react-native-reanimated
+
+# 2. Instale também o worklets (necessário na versão mais nova)
+npx expo install react-native-worklets
+
+# 3. Carousel mais moderno e estável (melhor que o snap-carousel antigo)
+npx expo install react-native-reanimated-carousel
+
+npx expo start -c
